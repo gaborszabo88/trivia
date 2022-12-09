@@ -1,0 +1,26 @@
+https://notes.jbrains.ca/20221209-slc
+approvaltests.com
+
+git add -A && git commit -m "quicksave"
+- gaa && gc
+- LazyGit -> ga
+
+Which part of the code you tried to change first?
+- formatting, duplicates
+- hard wired values which I don't know what are they specifically used for...
+
+How did you decide that?
+- the code looked a bit ugly from Python standard formatting point of view
+
+Reading:
+- Waltzing with Bears
+- Getting Things Done
+- Simon Harris, “Functional programming in object oriented languages” (from https://notes.jbrains.ca/20221209-slc)
+From the audience:
+- "Joker User story" to estimate Story Points
+
+TODO:
+- Extract Add function
+- Extract roll()
+  - draw diagram of how the new pieces might fit together
+  - decide to refactor in place or rewrite
